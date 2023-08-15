@@ -47,14 +47,14 @@
 
 // console.log(a);
 
-const obj = {
-  name: "Taima",
-  age: 1,
-  city: "Gaibandha",
-};
+// const obj = {
+//   name: "Taima",
+//   age: 1,
+//   city: "Gaibandha",
+// };
 
-for (let key in obj) {
-  console.log(key); // name, age, city
-  console.log(obj[key]); // Taima, 1, Gaibandha
-  console.log(key, obj[key]);
-}
+// for (let key in obj) {
+//   console.log(key); // name, age, city
+//   console.log(obj[key]); // Taima, 1, Gaibandha
+//   console.log(key, obj[key]);
+// }
