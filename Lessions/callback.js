@@ -16,4 +16,4 @@ const myCalculator = (num1, num2) => {
 };
 
 const result = myCalculator(5, 6);
-console.log(result);
+// console.log(result);
