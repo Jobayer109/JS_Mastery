@@ -19,4 +19,14 @@ const person = {
     return this.firstName + " " + this.lastName;
   },
 };
-console.log(person.fullName());
+// console.log(person.fullName());
+
+//
+//
+//
+// Do Not Declare Strings, Numbers, and Booleans as Objects!
+const x = new String();
+const y = new Boolean();
+// console.log(x);
+// console.log(y);
+//
