@@ -46,6 +46,6 @@ let startText = "Hello world, welcome to the universe.";
 //
 // String endsWith() method
 let endText = "Jobayet Ahmed";
-console.log(endText.endsWith("Ahmed")); // true
-console.log(endText.endsWith("ahmed")); // false
-console.log(endText.endsWith("Jobayer")); // false
+// console.log(endText.endsWith("Ahmed")); // true
+// console.log(endText.endsWith("ahmed")); // false
+// console.log(endText.endsWith("Jobayer")); // false
